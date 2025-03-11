@@ -1,4 +1,3 @@
-
 (deftemplate square
    (slot id)
    (slot side-length))
