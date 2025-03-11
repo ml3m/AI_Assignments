@@ -5,3 +5,4 @@
 ```bash
 pip instal -r requirements.txt
 ```
+![try on 30x20 maze](maze.png)
